@@ -1,0 +1,5 @@
+fastapi
+pymupdf
+chromadb
+sentence_transformers
+dotenv
