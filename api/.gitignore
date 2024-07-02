@@ -1,7 +1,7 @@
 #jupyter notebooks
 *.ipynb
 # Database
-db/
+database/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
