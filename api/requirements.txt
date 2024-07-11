@@ -2,4 +2,4 @@ fastapi
 pymupdf
 chromadb
 sentence_transformers
-dotenv
+python-dotenv
